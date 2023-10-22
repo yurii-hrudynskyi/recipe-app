@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+
+.App {
+  font-family: Anton;
+  text-align: center;
+  color: #3f50b5;
+}
